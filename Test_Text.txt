@@ -3,3 +3,5 @@ hello world!
 new update!
 
 conflict test.
+
+Kate's message
